@@ -61,8 +61,6 @@ E --> F[Conclusion]
  |<img width="914" height="660" alt="image" src="https://github.com/user-attachments/assets/d5625f36-2390-47b4-9f06-7079990f6ec8" />
 |
 
-> *(Replace the placeholder URLs above with your real image links from the GitHub “assets” section after uploading visuals.)*
-
 </div>
 
 ---

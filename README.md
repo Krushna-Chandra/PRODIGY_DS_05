@@ -55,9 +55,11 @@ E --> F[Conclusion]
 
 <div align="center">
 
-|                                   Accident Trend by Time of Day                                   |                                           Weather Impact                                          |                                       Hotspot Visualization                                       |
-| :-----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
-| <img src="https://github.com/Krushna-Chandra/PRODIGY_DS_05/assets/placeholder1.png" width="280"/> | <img src="https://github.com/Krushna-Chandra/PRODIGY_DS_05/assets/placeholder2.png" width="280"/> | <img src="https://github.com/Krushna-Chandra/PRODIGY_DS_05/assets/placeholder3.png" width="280"/> |
+| <img width="828" height="650" alt="image" src="https://github.com/user-attachments/assets/bfc62f4f-e614-4f43-927b-eaae1dad3044" />
+ | <img width="868" height="801" alt="image" src="https://github.com/user-attachments/assets/c5c73c9d-021d-4401-a9ba-dff85c2ecde7" />
+ | <img width="1241" height="599" alt="image" src="https://github.com/user-attachments/assets/818f1bb2-a1d8-4d25-b910-b8afa8468a35" />|
+ |<img width="914" height="660" alt="image" src="https://github.com/user-attachments/assets/d5625f36-2390-47b4-9f06-7079990f6ec8" />
+|
 
 > *(Replace the placeholder URLs above with your real image links from the GitHub “assets” section after uploading visuals.)*
 
